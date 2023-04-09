@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). This project will:
+Lets you play tic-tac-toe,
+Indicates when a player has won the game,
+Stores a game’s history as a game progresses,
+Allows players to review a game’s history and see previous versions of a game’s board.
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
